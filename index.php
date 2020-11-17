@@ -1,11 +1,7 @@
 <?php
 
 include_once("mawar.html");
-
-echo '<script type="text/JavaScript">  
-     prompt("GeeksForGeeks"); 
-     </script>' 
-; 
-
-<link rel="stylesheet" type="text/css" href="style.css">
+include_once("style.css");
+include_once("timer.css");
+include_once("timer.js");
 ?>
